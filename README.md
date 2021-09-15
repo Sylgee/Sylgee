@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* I'm a Certified ScrumMaster (CSM) currently leading software teams in the development, deployment and sustainability of software products.
+* I'm a Certified ScrumMaster (CSM) currently leading software teams in the development, deployment and sustainenance of software products.
 * My approaches are guided by the Scrum framework (or/and general agile methodologies). 
 
 ### Work Tools Include:
