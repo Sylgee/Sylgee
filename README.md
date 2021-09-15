@@ -10,14 +10,14 @@
 * Slack
 * Zoom
 
-:link:📫 ### Feel Free To Connect with me on:
+### 📫 Feel Free To Connect with me on:
 [Twitter](https://twitter.com/SylgeeMty) and [LinkedIn](https://www.linkedin.com/in/glory-sylvester)
 
 ### Close Interests are:
 * Software Project and Product Management
 * Software Quality Assurance (Manual Testing)
 
-🌱### Currently horning my skills on:
+### 🌱 Currently horning my skills on:
 * Data Science and Analytics, using Python 📈
 * Machine Learning 
 * Artificial Intellience and Deep Learning
