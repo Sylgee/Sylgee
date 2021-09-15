@@ -3,7 +3,7 @@
 * I'm a Certified ScrumMaster (CSM) currently leading software teams in the development, deployment and sustainenance of software products.
 * My approaches are guided by the Scrum framework (and/or general agile methodologies). 
 
-### Work Tools Include:
+### :wrench: Work Tools Include:
 * Trello
 * Jira
 * Asana
@@ -18,7 +18,7 @@
 * Software Project and Product Management
 * Software Quality Assurance (Manual Testing)
 
-## 🌱 Currently horning my skills on:
+## 🌱 Currently honing my skills on:
 * Data Science and Analytics, using Python 📈
 * Machine Learning 
 * Artificial Intellience and Deep Learning
