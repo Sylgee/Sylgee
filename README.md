@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Sylgee/Sylgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a Certified ScrumMaster (CSM) currently leading software teams in the development, deployment and sustainability of software products.
+* My approaches are guided by the Scrum framework (or/and general agile methodologies). 
 
-Here are some ideas to get you started:
+### Work Tools Include:
+* Trello
+* Jira
+* Asana
+* Slack
+* Zoom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:link:📫 ### Feel Free To Connect with me on:
+[Twitter](https://twitter.com/SylgeeMty) and [LinkedIn](https://www.linkedin.com/in/glory-sylvester)
+
+### Close Interests are:
+* Software Project and Product Management
+* Software Quality Assurance (Manual Testing)
+
+🌱### Currently horning my skills on:
+* Data Science and Analytics, using Python 📈
+* Machine Learning 
+* Artificial Intellience and Deep Learning
+
+You can find some of my projects by clicking here.
