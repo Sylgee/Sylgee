@@ -14,7 +14,7 @@
 * [Twitter](https://twitter.com/SylgeeMty)
 * [LinkedIn](https://www.linkedin.com/in/glory-sylvester)
 
-## :sparkles: Other Close Interests are:
+## :sparkles: Other close interests are:
 * Software Project and Product Management
 * Software Quality Assurance (Manual Testing)
 
