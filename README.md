@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* I'm a Certified ScrumMaster (CSM) currently leading software teams in the development, deployment and sustainenance of software products.
+* I'm a Certified ScrumMaster (CSM) currently leading software teams in the development, deployment and sustenance of software products.
 * My approaches are guided by the Scrum framework (and/or general agile methodologies). 
 
 #### :hammer: Work Tools Include:
@@ -23,4 +23,4 @@
 * Machine Learning 
 * Artificial Intellience and Deep Learning
 
-I plan to post more DS, ML and AI projects on here as I make progress. 
+I plan to push more DS, ML and AI projects on here as I make progress. 
