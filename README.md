@@ -16,10 +16,10 @@
 
 ## :sparkles: Other close interests are:
 * Software Project and Product Management
-* Software Quality Assurance (Manual Testing)
+* Software Quality Assurance (Functionality Testing)
+* Data Science and Analytics, using Python 📈
 
 ## 🌱 Currently honing my skills on:
-* Data Science and Analytics, using Python 📈
 * Machine Learning 
 * Artificial Intellience and Deep Learning
 
